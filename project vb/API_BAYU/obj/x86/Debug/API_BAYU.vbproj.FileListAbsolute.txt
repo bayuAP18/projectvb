@@ -1,0 +1,16 @@
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\API_BAYU.exe
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\API_BAYU.pdb
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\API_BAYU.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.vbprojResolveAssemblyReference.cache
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.Form1.resources
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.Resources.resources
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.vbproj.GenerateResource.Cache
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.exe
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API_BAYU\obj\x86\Debug\API_BAYU.pdb
+C:\KULIAH\SEMESTER 4\IPAT\BAYU\VB\API_BAYU\API_BAYU\obj\x86\Debug\API_BAYU.exe
+C:\KULIAH\SEMESTER 4\IPAT\BAYU\VB\API_BAYU\API_BAYU\obj\x86\Debug\API_BAYU.xml
+C:\KULIAH\SEMESTER 4\IPAT\BAYU\VB\API_BAYU\API_BAYU\obj\x86\Debug\API_BAYU.pdb
